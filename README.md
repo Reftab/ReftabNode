@@ -7,6 +7,8 @@ This is a quick and dirty module to interact with the Reftab API via Node.js.
 
 ### Download repository
 
+run 'npm install' in directory to install all dependencies
+
 Use the [Reftab API documentation](https://www.reftab.com/api-docs) to find endpoints to access.
 
 ### Methods
@@ -38,7 +40,7 @@ Parameters each take:
 ### Get an Asset and Update It
 
 ```javascript
-#This example shows how to get an asset and update it
+/*This example shows how to get an asset and update it*/
 
 const reftab = require('./lib/reftab');
 
