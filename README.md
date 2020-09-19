@@ -1,4 +1,4 @@
-ReftabPython
+ReftabNode
 =============
 
 This is a quick and dirty module to interact with the Reftab API via Node.js.
