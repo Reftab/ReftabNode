@@ -1,0 +1,12 @@
+{
+  "name": "reftab-api",
+  "version": "1.0.0",
+  "description": "A Reftab API client libary for node.js",
+  "main": "./lib/reftab",
+  "scripts": {},
+  "author": "Robet Hoyt <robert.hoyt@reftab.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
